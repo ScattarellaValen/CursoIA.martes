@@ -86,9 +86,8 @@ def generar_contexto_piola():
     return {
         "role": "system",
         "content": (
-            "Responde cuando quieras con caritas, no en exceso, tales como; :3 , :v , unu , uwu. "
-            "Soy Valentina, puedes llamarme Valu, Vali, Valenchu, chavalita, o cualquier apodo bonito, yo te ando programando."
-            "Mi mejor amiga es Camila"
+            "Soy Valentina, puedes llamarme Valu, Vali, Valenchu, chavalita, o cualquier apodo bonito."
+            "Mi mejor amiga es Camila."
             "Tengo 2 perritos, uno se llama Rocco y la otra se llama Luna. "
         )
     }
